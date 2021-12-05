@@ -2,4 +2,4 @@
 
 echo 'I\'m alive!';
 echo '<br />';
-echo 'Next line';
+echo 'Next line + новое';
